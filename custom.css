@@ -1,0 +1,56 @@
+.field_error{
+    color:red;
+    font-size: 21px;
+}
+.accordion .accordion__hide {
+    background: #f4f4f4;
+    height: 65px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-family: "Poppins";
+    cursor: pointer;
+}
+#multiple_images{
+	margin-top:10px; 
+}
+
+#multiple_images img{
+	width:15%;
+}
+
+.forgot_password{
+    margin-left: 17px;
+    font-size: 21px;
+    font-weight: bold;
+  
+}
+.buy_now{
+	background:#337ab7 none repeat scroll 0 0;
+}
+.review_heading{
+	font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+#review .comment-rating{
+    color:#c43b68;
+	font-weight:bold;   
+}
+
+.submit_review_hint{
+	font-size:16px;
+	color:#c43b68;
+}
+
+.mt10{
+	margin-top:10px;
+}
